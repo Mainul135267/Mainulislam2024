@@ -1,0 +1,26 @@
+div ul li{
+    display:inline;
+    padding:5px;
+    float:right;
+    background -color:blue;
+    }
+
+
+
+
+.login-box{
+    width:300px;
+    margin:0 auto;
+    padding:30px;
+    border:1px solid;
+    background: cyan;
+  
+}
+.login-box input[type="text"], 
+.login-box input[type="Email"]
+{
+    width:200;
+    padding:10px;
+    margin:0 5pz;
+    height: 40;
+}
